@@ -20,7 +20,10 @@ image:
     {% endif %}
   </header>
   <div class="entry-content" itemprop="description">
-    {{ post.content }}
+    {{ post.excerpt }}
+    <p>
+      <a href="{{ site.url }}{{ post.url }}">Continue reading</a>
+    </p>
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}

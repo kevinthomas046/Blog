@@ -1,19 +1,19 @@
-title:            Site Title
-description:      Describe your website here.
+title:            one34.com
+description:      Musings on dev, tech and more.
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+#url:              http://your-website.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Kevin Thomas
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "Front end developer working on full stack e-commerce platform."
+  email:          kevin@one34.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        kevinthomas89
   facebook:       
-  github:         
+  github:         http://github.com/kevinthomas046
   stackexchange:  
   linkedin:       
   instagram:      
